@@ -1,4 +1,4 @@
-# iamrich_app
+# Lab1: iamrich_app
 
 A new Flutter project.
 
